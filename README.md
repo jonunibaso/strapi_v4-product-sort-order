@@ -80,3 +80,4 @@ Slug → slug
 
 
 ## Screenshots
+![Plugin screen](Example.png)
