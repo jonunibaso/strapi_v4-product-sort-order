@@ -1,0 +1,8 @@
+{
+  "name": "product-sort-order",
+  "version": "1.0.0",
+  "strapi": {
+    "name": "product-sort-order",
+    "displayName": "Orden productos"
+  }
+}
